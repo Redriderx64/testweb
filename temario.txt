@@ -1,0 +1,33 @@
+-Introduccion al c
+  Entorno
+  hola mundo
+  suma
+  operadores
+  operadores condicionales
+  directivas del procesador
+  variable y tipos de datos
+  palabras reservadas
+-Ciclos
+  for
+  while 
+  do while
+  break & Continue
+  switch
+-Arreglos
+
+-Funciones
+  basicas
+  retorno 
+  recursividad
+-Punteros
+  basico
+  llamadas por referencia
+-Struct
+arreglos de struct
+operador size of
+memoria dinamica
+listas 
+colas 
+pilas
+
+  
